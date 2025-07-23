@@ -1,4 +1,4 @@
-## 📦 Data
+## 📦 Data:
 The training data is large, so it is hosted externally:
 
 - [Download training_text.csv]
