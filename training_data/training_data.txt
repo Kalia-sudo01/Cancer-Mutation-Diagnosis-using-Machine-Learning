@@ -1,0 +1,7 @@
+## 📦 Data
+The training data is large, so it is hosted externally:
+
+- [Download training_text.csv]
+- [Download training_variants.csv]
+
+Link: https://drive.google.com/drive/folders/1WeLJMCBe5Fbwg6Xj4vFcqNb0Wv8qqzyN?usp=sharing
